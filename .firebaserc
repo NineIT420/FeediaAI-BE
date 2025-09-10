@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "default": "feediaai-be",
-    "staging": "feediaai"
-  },
-  "targets": {},
-  "etags": {}
-}
